@@ -1,0 +1,19 @@
+.logo {
+  color: #ff5a60;
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 10px;
+}
+.primaryColor {
+  color: #ff5a60;
+}
+.primaryBG {
+  background-color: #ff5a60;
+}
+.primaryBG:hover {
+  background-color: #ff5a60;
+}
+/* .card:hover{
+  transform: scale(1.1);
+  transition: 0.5;
+} */
